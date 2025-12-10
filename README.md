@@ -17,9 +17,16 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div>
-<a href="https://www.instagram.com/valeska_geovana_milioni/" target="_blank" 
-   style="border-radius:12%; overflow: hidden; display: inline-block;">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+   <a style="
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+       style="width:100%; height:100%; object-fit:cover;">
 </a>
 
 
