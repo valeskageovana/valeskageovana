@@ -17,11 +17,11 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div>
-<a href="https://www.instagram.com/valeska_geovana_milioni/" target="_blank"
-   style="display:inline-block; border-radius:12px; overflow:hidden;">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-       alt="Instagram" style="display:block; border-radius:inherit; height:40px;">
+<a href="https://www.instagram.com/valeska_geovana_milioni/" target="_blank" 
+   style="border-radius: 20%; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
 
 
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
