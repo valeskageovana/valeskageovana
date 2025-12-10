@@ -18,7 +18,7 @@
  
 <div>
 <a href="https://www.instagram.com/valeska_geovana_milioni/" target="_blank" 
-   style="border-radius: 12; overflow: hidden; display: inline-block;">
+   style="border-radius: '12px'; overflow: hidden; display: inline-block;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
